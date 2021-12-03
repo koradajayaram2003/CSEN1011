@@ -1,3 +1,16 @@
+/*Algorithm
+Step 1 :Start
+Step 2 :Enter basic salary
+Step 3 :Enter HRA
+Step 4 :Enter TA
+STEP 5 :Enter others
+Step 6:Calculate the net salary
+Step 7 :Stop
+
+
+
+
+
 #include<stdio.h>
 int main()
 {
@@ -19,3 +32,9 @@ int main()
 	printf("net salary is :%d\n",netsalary);
 	
 }
+
+
+
+/*Learninga
+know to execute the simple program
+.....to calculate net salary of an employ
