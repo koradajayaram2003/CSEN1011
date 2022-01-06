@@ -1,0 +1,6 @@
+Algorithm to find weather a number is even or odd
+1.Start
+2.Accept the number
+3.divide the number by 2
+4.If we get remainder is 0 ,the number is even,else it is odd
+5.Stop
