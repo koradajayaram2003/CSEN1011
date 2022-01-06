@@ -1,0 +1,6 @@
+/* Algorithm 
+1. Start
+2. Enter the value of fact
+3. From value fact upto 1 multiply each digit
+4. The final value is factorial Number
+5. Stop */
