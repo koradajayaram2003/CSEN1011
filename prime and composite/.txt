@@ -1,0 +1,9 @@
+Algorithm to find weather the number is prime or composite
+1.start
+2.accept the positive integer
+3.instalise counter with value 2
+4.divide the number with counter 
+5.if the remainder is zero display the positive number is compositive 
+6.else, increment of counter and repeat from step four until counter value is less than "n"
+7.after completion of all the steps display that the number "n" is prime
+8.end
