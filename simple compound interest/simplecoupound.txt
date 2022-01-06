@@ -1,0 +1,8 @@
+/*Algorithm
+Step 1 :Start
+Step 2 :Enter the value of Principle(p)
+Step 3 :Enter the value of Time period(t)
+Step 4 : Enter the value of Rate of interest(r)
+Step 5: Calculate the simple interest by the formula
+Step 6: Calculate the Compound interest by the formula
+Step 7 :stop
