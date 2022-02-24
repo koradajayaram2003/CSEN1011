@@ -1,0 +1,5 @@
+/* Algorithm
+01. Start
+02. Accept two numbers number_01 and divisor.
+03. Reminder can be calculated as number_01 - divisor(number/divisor)
+04. Stop */
