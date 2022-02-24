@@ -1,0 +1,5 @@
+/* Algorithm
+01. Start
+02. Accept marks for 5 subjects.
+03. Find total, average.
+04. Stop */
